@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local WP / dev artefacts
+*.log
+*.bak
+*.tmp
+node_modules/
+vendor/
+
+# Anciens fichiers / brouillons
+Archive/
